@@ -1,0 +1,17 @@
+body{
+  background-image: url("http://img.cnmhstng.com/promohd/2016/lg/Split.jpg");
+}
+#block{
+  border-radius: 10%;
+  width: 30%;
+  height: 60%;
+  background-color: white;
+  padding-left: 5%;
+  -webkit-box-shadow:inset 10px 15px 70px 3px rgb(44, 62, 80);
+}
+#video{
+  margin-left: 5%;
+}
+p{
+  font-family:Chalkduster, fantasy;
+}
